@@ -573,7 +573,7 @@ const IntakeForm = ({ onSubmit }) => {
       </label>
 
       <label style={labelStyle}>
-        Monthly Income and Source *
+        Monthly Income *
         <input
           name="monthlyIncome"
           value={form.monthlyIncome}
